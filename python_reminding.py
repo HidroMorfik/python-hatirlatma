@@ -9,7 +9,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/HidroMorfik/python-hatirlatma.git
+git remote add origin https://github.com/zafermesut/python-hatirlatma.git
 git push -u origin main
 
 # %% spyder tanıtımı 
